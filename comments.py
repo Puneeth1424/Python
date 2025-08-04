@@ -1,0 +1,8 @@
+# FUN FACT ABOUT YOURSELF (comment)
+print('DDDD', '  L')
+print('D', '  D', ' L')
+print('D', '  D', ' L')
+print('D', '  D', ' L')
+print('D', '  D', ' L')
+print('D', '  D', ' L')
+print('DDDD', '  LLLLL')
